@@ -143,7 +143,7 @@ make wordcount          # word count
 
 ###### Configuring VS Code
 
-Install the LaTeX Workshop plugin in VS Code, and then open the root directory of this project.
+Install the LaTeX Workshop plugin in VS Code, and then **open the root directory of this project directly** (i.e., the `tongji-undergrad-thesis` folder, not a parent folder, otherwise `.vscode/settings.json` will not take effect).
 
 ###### Compile Project Using Workshop Features
 
